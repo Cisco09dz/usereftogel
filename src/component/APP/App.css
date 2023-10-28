@@ -1,0 +1,21 @@
+
+
+.john{ 
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+  align-items: center;
+}
+ 
+.show{
+  display: block;
+}
+.hiden{
+  display: none;
+}
+  
+ 
+
+  
+
+
